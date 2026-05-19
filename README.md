@@ -1,4 +1,5 @@
 <div align="center">
+https://gamma.app/docs/Monossilabos-Atonos-e-Tonicos--i6fetbcweu7diin?mode=doc
 
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=yKauttiz&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Miss%C3%B5es%20Discord%20%E2%80%94%20Script%20Gratuito%20STABLE%202026&descSize=20&descAlignY=60&descColor=aaa" width="100%"/>
