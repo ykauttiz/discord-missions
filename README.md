@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=yKauttiz&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Miss%C3%B5es%20Discord%20%E2%80%94%20Script%20Gratuito%20STABLE%202026&descSize=20&descAlignY=60&descColor=aaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=yKauttiz&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&d[...]
 
 <br/>
 
 [![Version](https://img.shields.io/badge/version-v5.0.0-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykauttiz/ykauttiz-missoes-discord)
 [![Status](https://img.shields.io/badge/status-STABLE-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 [![License](https://img.shields.io/badge/licen%C3%A7a-Copyright%202026-a855f7?style=for-the-badge&logo=shield&logoColor=white)](#copyright)
-[![Discord](https://img.shields.io/badge/Servidor-discord.gg%2FG3wrqyJQrC-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G3wrqyJQrC)
+[![Discord](https://img.shields.io/badge/Servidor-discord.gg%2FHUEyBnQx8X-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HUEyBnQx8X)
 
 [![Free](https://img.shields.io/badge/100%25-Gratuito-22c55e?style=flat-square&logo=opensourceinitiative&logoColor=white)](#)
 [![No Install](https://img.shields.io/badge/sem%20instala%C3%A7%C3%A3o-console%20only-06b6d4?style=flat-square&logo=javascript&logoColor=white)](#como-usar)
@@ -44,7 +44,7 @@
 
 ## 🎯 O que é
 
-**yKauttiz Missões Discord** é um script JavaScript que roda diretamente no console do Discord (F12) e completa suas **missões (Quests)** automaticamente — sem instalar nada, sem executável, sem extensão.
+**yKauttiz Missões Discord** é um script JavaScript que roda diretamente no console do Discord (F12) e completa suas **missões (Quests)** automaticamente — sem instalar nada, sem executável, sem[...]
 
 ```
 Cole no console → pressione Enter → o script faz tudo
@@ -200,14 +200,14 @@ Discord → aba **Missões** → **Aceitar** em cada missão desejada.
 ### Passo 4 — Aguarde e colete
 
 ```
- yKauttiz  Missoes Discord  v5.0.0  discord.gg/G3wrqyJQrC
+ yKauttiz  Missoes Discord  v5.0.0  discord.gg/HUEyBnQx8X
 
   !! USE POR SUA CONTA E RISCO !!
   Sessao: yk_RGI7B5 | v5.0.0 | Discord Stable | Desktop:Nao
   Comandos: yKStop() | yKStatus() | yKLog() | yKMetrics()
 
 [yK] Verificando servidor (obrigatorio)...
-[yK] [OK] Servidor verificado! discord.gg/G3wrqyJQrC
+[yK] [OK] Servidor verificado! discord.gg/HUEyBnQx8X
 [yK] 2 missao(oes) | ETA ~3min | yk_RGI7B5
   [1] Ready or Not DLC   WATCH_VIDEO | 43s/87s | expira em 99h
 [yK] "Ready or Not DLC": retomando de 43s (49%)
@@ -361,7 +361,7 @@ v1.0: Primeira versao publica — WATCH_VIDEO basico
 | Compartilhar **com crédito** e aviso de risco | Remover autoria |
 | Reportar bugs | Distribuir versões modificadas |
 
-> Versões legítimas **sempre** contêm: `yKauttiz` · `discord.gg/G3wrqyJQrC` · aviso de risco.
+> Versões legítimas **sempre** contêm: `yKauttiz` · `discord.gg/HUEyBnQx8X` · aviso de risco.
 
 ---
 
@@ -369,7 +369,7 @@ v1.0: Primeira versao publica — WATCH_VIDEO basico
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Entrar%20no%20Servidor-discord.gg%2FG3wrqyJQrC-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G3wrqyJQrC)
+[![Discord](https://img.shields.io/badge/Entrar%20no%20Servidor-discord.gg%2FHUEyBnQx8X-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HUEyBnQx8X)
 [![Website](https://img.shields.io/badge/Site%20Oficial-ykauttiz.github.io-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://ykauttiz.github.io/ykauttiz-missoes-discord)
 
 </div>
